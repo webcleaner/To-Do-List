@@ -1,5 +1,5 @@
 # To-Do-List
-A simple task tracker. Delete tasks once completed.
+A task tracker. 
 
 Goal of this project: 
 1. Access html elements and use JavaScript to manipulate html elements. Understand how to access html elements, store them in variables.      Stored variables can then be treated as objects and accessed/manipulated using methods. 
