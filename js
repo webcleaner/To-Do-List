@@ -1,4 +1,4 @@
- <script>
+
         
     debugger;    //document.querySelector --for class selection
     var userInput = document.getElementById("userInput")  //input
@@ -23,5 +23,4 @@
               x.parentElement.remove()
            }
               
-   </script>
     
