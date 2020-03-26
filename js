@@ -2,7 +2,7 @@
         
     debugger;    //document.querySelector --for class selection
     var userInput = document.getElementById("userInput")  //input
-    var ourList = document.getElementById("ourList")   //tasks from user
+    var ourList = document.getElementById("ourList")   //tasks from user displayed in list
     var ourForm = document.getElementById("ourForm").addEventListener ("submit", (e) => {
             e.preventDefault()
 
@@ -19,6 +19,7 @@
            }
            
            function deleteItem (x) {
+           
               x.parentElement.remove()
            }
               
